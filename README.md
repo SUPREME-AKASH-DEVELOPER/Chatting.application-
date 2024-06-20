@@ -1,9 +1,7 @@
-# Chatting.application-
-A sleek Java-based chat application with a modern, curved UI design.
-
 # Chat Application
 
-This is a simple chat application built using Java Swing for GUI and Socket programming for networking. The application allows communication between a server and multiple clients over a local network.
+This is a simple chat application built using Java Swing for GUI and Socket programming for networking. 
+The application allows communication between a server and multiple clients over a local network.
 
 ## Features
 
